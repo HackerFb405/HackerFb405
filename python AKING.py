@@ -23,16 +23,4 @@
          os.system('clear') 
          print(logo) 
          print('[2] Choose Your Country For Cloning\n\033[1;37m(!)══════════════════════════════════════════') 
-         print('[1] Pak Cloning \n[2] BD Cloning\n[0] Exit') 
-         Aking = input('[•] Choose : ') 
-         if Aking =='1': 
-                 if bit =='32bit': 
-                         import AKING32 
-                 elif bit =='64bit': 
-                         import AKING 
-         elif Aking =='2': 
-                 if bit =='32bit': 
-                         import BD32 
-                 elif bit =='64bit': 
-                         import BD 
- Run()
+         print('[1] Pak Cloning
