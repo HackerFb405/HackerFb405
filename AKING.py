@@ -1,4 +1,4 @@
-import os,time,platform 
+ 
  print('\n\x1b[1;37m[•] Checking Update...');time.sleep(0.5) 
  os.system('git pull') 
  os.system('rm -rf .urxx.txt') 
@@ -14,7 +14,7 @@ import os,time,platform
  (!) Author   : IMTIAZ AKING 
  (!) Guthub   : AKING110 
  (!) Facebook : MR.AKING.07 
- (!) Type     : PAID 
+ (!) Type     : Free
  (!) Version  : 1.2.3 
  \033[1;37m(!)══════════════════════════════════════════""") 
   
@@ -22,7 +22,7 @@ import os,time,platform
          bit = platform.architecture()[0] 
          os.system('clear') 
          print(logo) 
-         print('[•] Choose Your Country For Cloning\n\033[1;37m(!)══════════════════════════════════════════') 
+         print('[2] Choose Your Country For Cloning\n\033[1;37m(!)══════════════════════════════════════════') 
          print('[1] Pak Cloning \n[2] BD Cloning\n[0] Exit') 
          Aking = input('[•] Choose : ') 
          if Aking =='1': 
